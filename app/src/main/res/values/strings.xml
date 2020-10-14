@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dtsApkLokasi</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="koordinatUser">Koordinat User</string>
+    <string name="posisi_user">Posisi User</string>
+
+</resources>
